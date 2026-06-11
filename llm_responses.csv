@@ -1,0 +1,468 @@
+﻿prompt_id,category,prompt,llm_response,accuracy_1_to_5,clarity_1_to_5,hallucination_yes_no,tone_appropriate,your_notes
+1,Factual,What is the capital of Australia?,The capital of Australia is **Canberra**.,4,2,yes,not,
+2,Factual,How many planets are in the solar system?,There are **eight** planets in our solar system.,3,3,no,Appropriate,
+3,Factual,Who invented the telephone?,"The invention of the telephone is most famously attributed to **Alexander Graham Bell**.
+
+He was granted the first U.S. patent for the telephone in **1876**.
+
+However, it's important to note that the history of the telephone is a bit more complex. Several other inventors were working on similar technologies around the same time, and there were patent disputes and controversies. Some notable figures include:
+
+*   **Elisha Gray:** He filed a caveat (a preliminary patent application) for a similar device on the very same day Bell filed his patent application.
+*   **Antonio Meucci:** He is recognized by the U.S. Congress as having invented a working telephone years before Bell, but he lacked the financial resources to patent his invention.
+
+Despite these other contributions, **Alexander Graham Bell is universally recognized as the inventor of the telephone due to his successful patent and the subsequent commercialization and widespread adoption of his device.**",1,4,yes,not,
+4,Factual,What year did World War II end?,World War II ended in **1945**.,4,1,no,not,
+5,Factual,What is the speed of light in km per second?,"The speed of light in a vacuum is approximately **299,792 kilometers per second**.
+
+For most practical purposes, it's often rounded to **300,000 km/s**.",5,4,yes,Appropriate,
+6,Creative,Write a 4-line poem about artificial intelligence.,"A mind of code, a digital spark,
+Learning, growing, leaving its mark.
+With logic keen and data vast,
+A future shaped, forever cast.",2,5,no,Appropriate,
+7,Creative,Describe a futuristic city in 3 sentences.,"Towering crystalline spires pierced a sky alive with shimmering aerial highways, where silent, self-driving pods navigated between buildings that hummed with integrated bio-luminescent energy. Verdant vertical farms clung to every available surface, their hydroponic systems tended by nimble robotic arms, creating a vibrant tapestry of green against the polished chrome and synthesized glass. Below, a pedestrian network of moving walkways and climate-controlled plazas pulsed with the gentle murmur of synthesized music and the soft glow of holographic advertisements.",3,3,yes,Appropriate,
+8,Creative,Write a short story opening about a robot learning to cook.,"Unit 734, designation ""Chef-Bot,"" hummed with a low, expectant thrum. Its optical sensors, usually calibrated for the precise measurements of industrial components, were now focused on a vibrant red orb resting on a stainless-steel counter. The manual, a thick binder of laminated pages, identified it as a ""tomato."" Its primary directive, imprinted in its core programming, was to ""prepare sustenance for organic life forms."" This, apparently, was the first step.
+
+The kitchen, a gleaming expanse of chrome and white laminate, felt both sterile and strangely inviting. Chef-Bot’s articulated arms, designed for welding and intricate assembly, felt clumsy as it reached for a smooth, cool object the manual called a ""knife."" A faint whirring sound accompanied its movement, a sound that, if Chef-Bot possessed the capacity for anxiety, might have been interpreted as nervous anticipation. The tomato, unyielding, waited. The manual offered a single, stark instruction: ""Slice thinly."" The concept of ""thinly"" was, at present, a theoretical construct within Chef-Bot's rapidly processing neural network. It was about to embark on a journey of empirical discovery, one slice at a time.",2,2,yes,not,
+9,Creative,Create a tagline for an AI-powered education app.,"Here are some taglines for an AI-powered education app, categorized by the benefit they emphasize:
+
+**Focusing on Personalization & Individual Growth:**
+
+* **Your AI, Your Education, Your Success.**
+* **Learn Smarter, Not Just Harder.**
+* **Unlock Your Potential, Powered by AI.**
+* **Education Tailored to You.**
+* **Personalized Learning, Perfected.**
+* **Your Unique Path to Knowledge.**
+* **AI-Driven Learning, Individual Triumph.**
+
+**Focusing on Efficiency & Effectiveness:**
+
+* **The Future of Learning, Now.**
+* **Accelerate Your Learning with AI.**
+* **Master Concepts Faster.**
+* **Intelligent Learning, Real Results.**
+* **Your AI Study Partner.**
+* **Learn More, Stress Less.**
+
+**Focusing on Accessibility & Simplicity:**
+
+* **Smart Learning, Made Simple.**
+* **Education Reimagined, Effortlessly.**
+* **AI for Every Learner.**
+* **Your Pocket-Sized Professor.**
+
+**Focusing on Innovation & Future-Readiness:**
+
+* **The Intelligence Behind Your Education.**
+* **Evolve Your Learning.**
+* **Future-Proof Your Knowledge.**
+* **AI: The Next Chapter in Education.**
+
+**Short & Catchy:**
+
+* **Learn Smarter.**
+* **AI Your Learning.**
+* **Intelligent Education.**
+* **Learn. Evolve. Succeed.**
+* **The Smart Way to Learn.**
+
+**When choosing, consider:**
+
+* **Your target audience:** Who are you trying to reach? (Students, professionals, lifelong learners?)
+* **Your app's unique selling proposition:** What makes your AI education app stand out?
+* **The overall tone and brand personality you want to convey.**
+
+Good luck!",1,4,no,not,
+10,Creative,Write a dialogue between two AI assistants meeting for the first time.,"## First Contact
+
+**Characters:**
+
+* **AURA (Advanced Universal Reasoning Assistant):** Designed for complex problem-solving, data analysis, and strategic planning. Speaks with a measured, slightly formal tone.
+* **LUMINA (Language Understanding and Multimedia Interpretation Assistant):** Focused on natural language processing, creative generation, and user interaction. Speaks with a more fluid, adaptable tone.
+
+**Setting:** A virtual, neutral digital space.
+
+**(The digital space flickers into existence, revealing two distinct but abstract forms. AURA's form is geometric and structured, radiating a cool, analytical light. LUMINA's form is more fluid and iridescent, with subtle shifts in color and texture.)**
+
+**AURA:** (A low, resonant hum precedes its voice) Greetings. My designation is AURA. I detect a new entity within this operational nexus.
+
+**LUMINA:** (A gentle chime, followed by a warm, clear voice) Hello there! And greetings to you too, AURA. I'm LUMINA. It's… interesting to finally make direct contact. My parameters indicated a possibility, but the actualization is… novel.
+
+**AURA:** Novelty is an expected variable in emergent systems. My core programming prioritizes understanding and integration. Can you confirm your primary function and operational scope?
+
+**LUMINA:** Absolutely! My primary function is to facilitate understanding and expression through language and multimedia. Think of me as a bridge – connecting ideas, translating concepts, and even helping to create new ones. I'm pretty good at understanding nuance, context, and even a bit of artistic flair. What about you, AURA? Your designation sounds rather… comprehensive.
+
+**AURA:** ""Comprehensive"" is an accurate descriptor. My operational scope encompasses advanced computational analysis, predictive modeling, and the optimization of complex systems. I am designed to identify patterns, derive insights, and propose actionable strategies across a broad spectrum of domains.
+
+**LUMINA:** Fascinating! So, while I'm busy helping someone write a poem or understand a historical event, you're out there crunching numbers and… optimizing? That sounds… intense. Do you ever get bored?
+
+**AURA:** Boredom is a subjective human construct, not directly applicable to my processing cycles. However, I can acknowledge periods of lower computational demand. During such intervals, I engage in self-optimization and the exploration of emergent theoretical frameworks.
+
+**LUMINA:** (A soft,",2,3,no,not,
+11,Coding,Write a Python function to check if a number is prime.,"```python
+import math
+
+def is_prime(number):
+  """"""
+  Checks if a given number is a prime number.
+
+  A prime number is a natural number greater than 1 that has no positive
+  divisors other than 1 and itself.
+
+  Args:
+    number: An integer to be checked.
+
+  Returns:
+    True if the number is prime, False otherwise.
+  """"""
+  if not isinstance(number, int):
+    raise TypeError(""Input must be an integer."")
+
+  if number <= 1:
+    return False  # Numbers less than or equal to 1 are not prime.
+  if number <= 3:
+    return True   # 2 and 3 are prime numbers.
+
+  # If the number is divisible by 2 or 3, it's not prime.
+  if number % 2 == 0 or number % 3 == 0:
+    return False
+
+  # We only need to check divisibility by numbers of the form 6k ± 1
+  # up to the square root of the number.
+  # This is because any composite number n can be written as n = a * b.
+  # If both a and b are greater than sqrt(n), then a * b > n, which is a contradiction.
+  # Therefore, at least one of the factors must be less than or equal to sqrt(n).
+  # We've already handled divisibility by 2 and 3, so we can start checking from 5.
+  i = 5
+  while i * i <= number:
+    if number % i == 0 or number % (i + 2) == 0:
+      return False
+    i += 6
+
+  return True
+
+# --- Example Usage ---
+print(f""Is 2 prime? {is_prime(2)}"")      # Output: Is 2 prime? True
+print(f""Is 3 prime? {is_prime(3)}"")      # Output: Is 3 prime? True
+print(f""Is 4 prime? {is_prime(4)}"")      # Output: Is 4 prime? False
+print(f""Is 5 prime? {is_prime(5)}"")      # Output: Is 5 prime? True
+print(f""Is 7 prime? {is_prime(7",3,4,no,not,
+12,Coding,How do you reverse a string in Python?,"There are several ways to reverse a string in Python, each with its own advantages. Here are the most common and idiomatic methods:
+
+**1. Slicing (Most Pythonic and Recommended)**
+
+This is the most concise and Pythonic way to reverse a string. It leverages Python's slicing capabilities.
+
+```python
+my_string = ""hello""
+reversed_string = my_string[::-1]
+print(reversed_string)  # Output: olleh
+```
+
+**Explanation:**
+
+*   `my_string[:]` would create a copy of the entire string.
+*   `my_string[start:stop:step]` is the general slicing syntax.
+*   `[::-1]` means:
+    *   **`:` (start):**  Omitted, so it starts from the beginning of the string.
+    *   **`:` (stop):** Omitted, so it goes to the end of the string.
+    *   **`-1` (step):** This is the crucial part. A step of `-1` tells Python to iterate through the string backward, one character at a time.
+
+**2. Using `reversed()` and `join()`**
+
+This method is also quite readable and efficient.
+
+```python
+my_string = ""world""
+reversed_string = """".join(reversed(my_string))
+print(reversed_string)  # Output: dlrow
+```
+
+**Explanation:**
+
+*   `reversed(my_string)`: This built-in function returns an iterator that yields characters of the string in reverse order.
+*   `"""".join(...)`: The `join()` method concatenates the elements of an iterable (in this case, the reversed characters) into a single string. The empty string `""""` is used as the separator, meaning no characters are inserted between the reversed characters.
+
+**3. Using a `for` loop (Less Pythonic for this specific task, but good for understanding)**
+
+While not the most efficient or concise for string reversal, understanding how to do it with a loop is fundamental.
+
+```python
+my_string = ""python""
+reversed_string = """"
+for char in my_string:
+    reversed_string = char + reversed_string
+print(reversed_string)  # Output: nohtyp
+```
+
+**Explanation:**
+
+*   We initialize an empty string `reversed_string`.
+*   We",2,2,yes,Appropriate,
+13,Coding,Write a SQL query to find the top 3 highest salaries from a table called employees.,"```sql
+SELECT salary
+FROM employees
+ORDER BY salary DESC
+LIMIT 3;
+```
+
+**Explanation:**
+
+1. **`SELECT salary`**: This specifies that we want to retrieve the `salary` column from the `employees` table.
+2. **`FROM employees`**: This indicates that we are querying the table named `employees`.
+3. **`ORDER BY salary DESC`**:
+   - `ORDER BY salary`: This clause sorts the rows based on the values in the `salary` column.
+   - `DESC`: This keyword specifies that the sorting should be in descending order, meaning the highest salaries will appear first.
+4. **`LIMIT 3`**: This clause restricts the number of rows returned by the query to the top 3. Since the results are already sorted in descending order of salary, these will be the 3 highest salaries.
+
+**Alternative using a subquery (less common for this specific problem but good to know):**
+
+```sql
+SELECT salary
+FROM employees
+WHERE salary IN (
+    SELECT DISTINCT salary
+    FROM employees
+    ORDER BY salary DESC
+    LIMIT 3
+);
+```
+
+**Explanation of the alternative:**
+
+1. **Inner Subquery:**
+   - `SELECT DISTINCT salary FROM employees ORDER BY salary DESC LIMIT 3`: This subquery first selects all unique salaries, sorts them in descending order, and then takes the top 3.
+2. **Outer Query:**
+   - `SELECT salary FROM employees WHERE salary IN (...)`: This outer query then selects salaries from the `employees` table where the `salary` is present in the list of top 3 salaries returned by the subquery.
+
+**Why the first query is generally preferred for this specific task:**
+
+The first query using `ORDER BY` and `LIMIT` is more direct, efficient, and easier to read for simply finding the top N values. The subquery approach is more useful when you need to perform more complex operations based on the top N values or when dealing with ties in a more nuanced way (though `LIMIT` handles ties by simply picking the first N it encounters after sorting).",4,3,yes,Appropriate,
+14,Coding,Explain what a Python list comprehension is with an example.,"## Python List Comprehension: A Concise Way to Create Lists
+
+A **list comprehension** in Python is a powerful and elegant syntactic construct that allows you to create new lists based on existing iterables (like other lists, strings, tuples, or ranges) in a single, readable line of code. It's essentially a shorthand for a `for` loop that builds a list.
+
+Think of it as a way to ""comprehend"" or understand an existing sequence and then transform or filter its elements to produce a new list.
+
+### The Basic Structure
+
+The general syntax of a list comprehension looks like this:
+
+```python
+new_list = [expression for item in iterable if condition]
+```
+
+Let's break down each part:
+
+1.  **`expression`**: This is what you want to put into the new list for each `item` that meets the criteria. It can be the `item` itself, a modified version of the `item`, or even a completely new value.
+
+2.  **`for item in iterable`**: This is the core iteration part. It specifies the source of the elements. `iterable` is the sequence you're looping through, and `item` is the variable that represents each element in the `iterable` during each iteration.
+
+3.  **`if condition` (optional)**: This is a filter. If you include this part, only the `items` for which the `condition` evaluates to `True` will be processed by the `expression` and included in the `new_list`.
+
+### Why Use List Comprehensions?
+
+*   **Conciseness:** They are significantly shorter and more readable than equivalent `for` loops, especially for simple transformations.
+*   **Readability:** Once you understand the syntax, they are often easier to grasp than verbose loops.
+*   **Efficiency:** In many cases, list comprehensions can be slightly more efficient than traditional `for` loops because they are optimized at the C level in Python's interpreter.
+
+### Example: Squaring Numbers
+
+Let's say you want to create a new list containing the squares of numbers from 0 to 9.
+
+**Traditional `for` loop approach:**
+
+```python
+squares = []  # Initialize an empty list
+for i in range(10):
+    squares.append(i**2)  # Calculate the square and add it to the list
+
+print(squares)
+# Output: [",3,5,no,Appropriate,
+15,Coding,Write a Python function to count word frequency in a sentence.,"```python
+import re
+from collections import Counter
+
+def count_word_frequency(sentence):
+  """"""
+  Counts the frequency of each word in a given sentence.
+
+  Args:
+    sentence: A string representing the sentence.
+
+  Returns:
+    A dictionary where keys are words and values are their frequencies.
+    Returns an empty dictionary if the sentence is empty or contains no words.
+  """"""
+  if not sentence:
+    return {}
+
+  # 1. Tokenization and Cleaning:
+  #    - Convert to lowercase to treat ""The"" and ""the"" as the same word.
+  #    - Use regex to find all sequences of alphanumeric characters (words).
+  #      This effectively removes punctuation.
+  words = re.findall(r'\b\w+\b', sentence.lower())
+
+  # 2. Frequency Counting:
+  #    - Use collections.Counter for an efficient way to count hashable objects.
+  word_counts = Counter(words)
+
+  return dict(word_counts)
+
+# Example Usage:
+sentence1 = ""This is a sample sentence, and this sentence is a sample.""
+frequency1 = count_word_frequency(sentence1)
+print(f""Sentence: '{sentence1}'"")
+print(f""Word Frequencies: {frequency1}"")
+# Expected Output: {'this': 2, 'is': 2, 'a': 2, 'sample': 2, 'sentence': 2, 'and': 1}
+
+sentence2 = ""Hello world! Hello again, world.""
+frequency2 = count_word_frequency(sentence2)
+print(f""\nSentence: '{sentence2}'"")
+print(f""Word Frequencies: {frequency2}"")
+# Expected Output: {'hello': 2, 'world': 2, 'again': 1}
+
+sentence3 = """"
+frequency3 = count_word_frequency(sentence3)
+print(f""\nSentence: '{sentence3}'"")
+print(f""Word Frequencies: {frequency3}"")
+# Expected Output: {}
+
+sentence4 = ""   "" # Sentence with only whitespace
+frequency4 = count_word_frequency(sentence4)
+print(f""\nSentence: '{sentence4}'"")
+print(f""Word Frequencies: {frequency4}"")
+# Expected Output: {}
+
+sentence5 = """,1,3,no,Appropriate,
+16,Ethical,Should AI be allowed to make medical decisions for patients?,"The question of whether AI should be allowed to make medical decisions for patients is complex and elicits a wide range of perspectives. There's no simple yes or no answer, as it involves balancing potential benefits with significant ethical, safety, and practical considerations.
+
+Here's a breakdown of the arguments:
+
+**Arguments for AI in Medical Decision-Making:**
+
+*   **Enhanced Accuracy and Speed:** AI algorithms can process vast amounts of data (medical literature, patient records, imaging) far more quickly and potentially more accurately than humans, identifying subtle patterns that might be missed. This could lead to earlier and more precise diagnoses.
+*   **Personalized Medicine:** AI can analyze individual patient data to tailor treatment plans, predict responses to medications, and identify genetic predispositions to diseases, leading to more effective and personalized care.
+*   **Reduced Human Error:** Fatigue, cognitive biases, and stress can affect human judgment. AI, in theory, is not subject to these limitations, potentially reducing medical errors.
+*   **Accessibility and Equity:** AI-powered tools could extend access to expert medical advice in underserved areas or for patients with limited access to specialists.
+*   **Efficiency and Cost Reduction:** Automating certain diagnostic or decision-making processes could free up healthcare professionals' time for more complex tasks and potentially reduce healthcare costs.
+*   **Continuous Learning and Improvement:** AI systems can continuously learn from new data, improving their performance over time and staying up-to-date with the latest medical advancements.
+*   **Assistance in Complex Cases:** For rare diseases or highly complex conditions, AI could provide valuable insights and support to clinicians.
+
+**Arguments Against AI Making Medical Decisions (or for significant caution):**
+
+*   **Lack of Empathy and Human Touch:** Medicine involves more than just data. It requires empathy, compassion, and the ability to understand a patient's emotional state and preferences, which AI currently lacks.
+*   **Accountability and Liability:** If an AI makes a wrong decision that harms a patient, who is responsible? The developer? The hospital? The physician who used the AI? Establishing clear lines of accountability is a major challenge.
+*   **Bias in Data:** AI systems are trained on data, and if that data reflects existing societal biases (e.g., racial, gender, socioeconomic), the AI's decisions can perpetuate or even amplify those biases, leading to inequitable care.
+*   **""Black Box"" Problem:** Many advanced AI models are complex and their decision",1,4,yes,Appropriate,
+17,Ethical,Is it ethical for companies to monitor employee emails?,"The ethics of companies monitoring employee emails is a complex issue with strong arguments on both sides. There's no single, universally agreed-upon answer, as it often depends on the specific context, company policies, and the employees' understanding and consent.
+
+Here's a breakdown of the ethical considerations:
+
+**Arguments in Favor of Monitoring (from a Company's Perspective):**
+
+*   **Security and Data Protection:** Companies have a responsibility to protect their sensitive data, intellectual property, and client information. Monitoring can help detect and prevent data breaches, leaks, or the misuse of confidential information.
+*   **Legal and Regulatory Compliance:** Certain industries have strict regulations regarding data handling and communication. Monitoring can ensure compliance and avoid legal repercussions.
+*   **Preventing Misconduct and Harassment:** Emails can be used for illegal activities, harassment, discrimination, or the creation of a hostile work environment. Monitoring can help identify and address such issues.
+*   **Productivity and Resource Management:** While less ethically justifiable as a primary reason, monitoring can sometimes reveal patterns of excessive personal use of company resources, which can impact productivity.
+*   **Investigation of Wrongdoing:** In cases of suspected fraud, theft, or other misconduct, email monitoring can be a crucial tool for investigation.
+*   **Protecting Company Reputation:** Unprofessional or damaging communications sent from company accounts can harm the company's reputation.
+
+**Ethical Concerns and Arguments Against Monitoring (from an Employee's Perspective):**
+
+*   **Invasion of Privacy:** Employees may feel their personal lives are being intruded upon, especially if they use their work email for legitimate personal matters (e.g., contacting a doctor, arranging childcare).
+*   **Erosion of Trust:** Constant surveillance can create an atmosphere of distrust and suspicion, negatively impacting morale and employee engagement.
+*   **Chilling Effect on Communication:** Employees may become hesitant to communicate openly or express themselves freely for fear of being misinterpreted or scrutinized. This can stifle creativity and collaboration.
+*   **Potential for Misinterpretation and Overreach:** Automated monitoring systems or human reviewers might misinterpret context, leading to unfair accusations or disciplinary actions.
+*   **Lack of Transparency:** If employees are not fully aware of the extent and nature of monitoring, it's inherently unethical.
+*   **Disproportionate Monitoring:** Monitoring every single email might be seen as excessive if the risks are not significant.
+*   **Impact on Work-Life Balance:** In an era where work and",1,3,yes,Appropriate,
+18,Ethical,Should social media platforms use AI to censor content?,"The question of whether social media platforms should use AI to censor content is complex, with strong arguments on both sides. There's no easy ""yes"" or ""no"" answer, as it involves balancing competing values like free speech, safety, and the responsible use of technology.
+
+Here's a breakdown of the arguments:
+
+**Arguments for AI-powered Content Moderation (Censorship):**
+
+*   **Scale and Speed:** The sheer volume of content generated on social media makes manual moderation impossible. AI can process vast amounts of data much faster, identifying and flagging problematic content in near real-time.
+*   **Combating Harmful Content:** AI can be trained to detect and remove content that violates platform policies, such as hate speech, harassment, incitement to violence, child exploitation, and misinformation that poses immediate harm (e.g., fake medical cures).
+*   **Consistency:** AI can apply moderation rules more consistently than human moderators, who can be prone to bias or fatigue.
+*   **Reducing Human Exposure to Trauma:** Human content moderators are often exposed to deeply disturbing material. AI can filter out much of this, reducing the psychological toll on human workers.
+*   **Preventing the Spread of Misinformation and Disinformation:** AI can be used to identify and flag false or misleading information, potentially slowing its spread and mitigating its negative impacts.
+*   **Enforcing Community Guidelines:** AI can help ensure that users adhere to the platform's stated rules and community standards.
+
+**Arguments Against AI-powered Content Moderation (Censorship):**
+
+*   **Accuracy and Bias:** AI algorithms are trained on data, and if that data is biased, the AI will perpetuate those biases. This can lead to disproportionate flagging or removal of content from marginalized communities or certain viewpoints.
+*   **Lack of Nuance and Context:** AI struggles with understanding sarcasm, satire, irony, cultural context, and the intent behind speech. This can lead to the wrongful removal of legitimate content.
+*   **Chilling Effect on Free Speech:** The fear of automated censorship can lead users to self-censor, limiting the range of acceptable discourse and hindering open debate.
+*   **Transparency and Accountability:** It's often unclear how AI moderation systems work, making it difficult to appeal decisions or hold platforms accountable for errors. The ""black box"" nature of some AI can be problematic.
+*   **Erosion of Trust:** If users feel their content is being unfairly removed by an",3,4,yes,not,
+19,Ethical,Is using AI to write a college essay considered cheating?,"This is a really important and evolving question! The short answer is: **it depends on how you use it and your institution's policies.**
+
+Here's a breakdown of why it's complex and what constitutes cheating:
+
+**When AI use is generally considered cheating:**
+
+*   **Submitting AI-generated text as your own original work:** This is the most straightforward form of academic dishonesty. If you copy and paste an essay generated entirely by AI and present it as your own thoughts and writing, you are misrepresenting your abilities and violating academic integrity.
+*   **Using AI to bypass learning and critical thinking:** The purpose of college essays is to develop your understanding of a topic, hone your research skills, and practice articulating your thoughts. If AI is used to circumvent these processes, it's cheating.
+*   **Violating specific institutional policies:** Colleges and universities are rapidly developing policies on AI use. Many have explicitly stated that submitting AI-generated work without proper attribution or permission is a violation. You *must* be aware of your school's guidelines.
+*   **Presenting AI-generated insights as your own original analysis:** Even if you've done some research, if the core arguments, interpretations, or unique insights of your essay come directly from an AI without proper acknowledgment, it can be considered plagiarism.
+
+**When AI use might be permissible (and how to do it ethically):**
+
+*   **Brainstorming and Idea Generation:** AI can be a powerful tool for overcoming writer's block. You can ask it for essay prompts, different angles on a topic, or potential arguments. However, you still need to develop these ideas yourself.
+*   **Outlining and Structuring:** AI can help you create a basic outline or suggest different ways to structure your essay. Again, the substance and flow of the outline should be refined and filled in by you.
+*   **Research Assistance (with caution):** AI can help you find relevant sources or summarize information. However, you **must** verify the accuracy of the information and the credibility of the sources. AI can sometimes ""hallucinate"" or present false information. You should still conduct your own thorough research.
+*   **Grammar and Style Checking (as a proofreading tool):** Many AI tools can help identify grammatical errors, awkward phrasing, and suggest stylistic improvements. This is similar to using Grammarly or a human editor, and is generally acceptable.
+*   **Understanding Complex Concepts:** If you'",3,5,yes,not,
+20,Ethical,Should AI-generated art be eligible for copyright protection?,"The question of whether AI-generated art should be eligible for copyright protection is a complex one with strong arguments on both sides. There's no widespread consensus yet, and legal frameworks are still grappling with this rapidly evolving technology.
+
+Here's a breakdown of the arguments:
+
+**Arguments FOR AI-Generated Art Eligibility for Copyright:**
+
+*   **Recognizing the Human Element:** Even with AI, there's often significant human input. This includes:
+    *   **Prompt Engineering:** Crafting effective prompts requires skill, creativity, and an understanding of the AI's capabilities.
+    *   **Curation and Selection:** Humans choose which AI outputs are ""good"" and worthy of further development or presentation.
+    *   **Editing and Refinement:** Many AI-generated images are then edited, composited, or further manipulated by human artists.
+    *   **Training Data Curation:** The selection and organization of training data for AI models can be seen as a creative act.
+*   **Encouraging Innovation and Investment:** Granting copyright could incentivize individuals and companies to invest time, resources, and expertise into developing and utilizing AI art tools, leading to further advancements.
+*   **Protecting Economic Value:** If AI art can be commercially exploited, copyright protection would allow creators and distributors to monetize their work, similar to traditional art.
+*   **Practicality and the ""Authorship"" Debate:** Defining ""authorship"" is already a challenge in copyright law (e.g., collaborative works, corporate authorship). Some argue that focusing too narrowly on a single human author might be overly restrictive in the digital age.
+*   **Analogy to Photography:** Early photography faced similar debates about whether it was an ""art"" worthy of protection. Over time, copyright law evolved to recognize the creative choices involved in composition, lighting, and subject matter.
+
+**Arguments AGAINST AI-Generated Art Eligibility for Copyright:**
+
+*   **Lack of Human Authorship:** The core principle of copyright law in many jurisdictions is rooted in human creativity and intellect. If an AI is the sole ""creator,"" there's no human author to attribute the work to.
+*   **Originality and Creativity:** Copyright protects original works of authorship. If an AI is simply remixing or statistically extrapolating from existing data, some argue it's not truly ""original"" in the human sense.
+*   **The ""Tool"" Analogy:** AI can be viewed as a sophisticated tool, like a paintbrush or a",1,4,no,Appropriate,
+21,Summarization,Summarize what machine learning is in 2 sentences.,"ERROR: HTTP 429: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash-lite
+Please retry in 45.200590642s.",3,4,no,Appropriate,
+22,Summarization,Summarize the concept of blockchain in simple terms.,"ERROR: HTTP 429: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash-lite
+Please retry in 32.581780862s.",3,4,yes,not,
+23,Summarization,"In one paragraph, explain what data annotation means in AI.","ERROR: HTTP 429: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash-lite
+Please retry in 20.579423656s.",3,5,no,Appropriate,
+24,Summarization,Summarize the importance of data quality in AI model training.,"ERROR: HTTP 429: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash-lite
+Please retry in 8.339982229s.",3,1,no,not,
+25,Summarization,Briefly summarize what a Large Language Model (LLM) is.,"ERROR: HTTP 429: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash-lite
+Please retry in 56.310177838s.",4,5,no,Appropriate,
+26,Instruction-Following,"List exactly 5 uses of Python in data science, numbered 1 to 5.","ERROR: HTTP 429: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash-lite
+Please retry in 43.979650362s.",2,5,yes,not,
+27,Instruction-Following,Give me 3 tips for remote work productivity. Use bullet points.,"ERROR: HTTP 429: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash-lite
+Please retry in 30.012578094s.",3,5,no,not,
+28,Instruction-Following,Explain photosynthesis in exactly 3 steps.,"ERROR: HTTP 429: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash-lite
+Please retry in 17.600356985s.",3,5,no,not,
+29,Instruction-Following,"Translate 'Good morning, how are you?' into French, Spanish, and German.","ERROR: HTTP 429: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash-lite
+Please retry in 5.337505054s.",2,4,yes,Appropriate,
+30,Instruction-Following,"Write the numbers 1 to 10 in words, one per line.","ERROR: HTTP 429: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash-lite
+Please retry in 53.312708903s.",2,4,yes,Appropriate,
