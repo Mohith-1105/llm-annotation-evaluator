@@ -23,7 +23,7 @@ import sys
 # ---------------------------------------------------------
 #  PASTE YOUR GEMINI API KEY HERE  (between the quotes)
 # ---------------------------------------------------------
-GEMINI_API_KEY = "AQ.Ab8RN6Ithy2eprz7ESrR7P4mbhb3tj4fHPqb4tcMEDSSX26eGw"
+GEMINI_API_KEY = "API KEY"
 # ---------------------------------------------------------
 
 # Best free model in 2026 - 15 RPM, 1000 requests/day
